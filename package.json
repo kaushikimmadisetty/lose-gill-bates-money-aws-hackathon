@@ -12,6 +12,12 @@
   "dependencies": {
     "spectrum-ts": "^12.10.1"
   },
+  "overrides": {
+    "@opentelemetry/core": "^2.8.0"
+  },
+  "resolutions": {
+    "@opentelemetry/core": "^2.8.0"
+  },
   "scripts": {
     "start": "bun src/bot.ts",
     "test": "bun test",
