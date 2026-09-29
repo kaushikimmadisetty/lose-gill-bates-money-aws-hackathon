@@ -1,3 +1,6 @@
+# UI Code: https://github.com/cfireborn/fun-choice-mania
+
+
 # Lose Gill Bates Money AWS Hackathon
 
 A text game that teaches teens about AI security risks. Billionaire Gill Bates trusts an AI helper named LEDGER with his $100,000,000,000 fortune. You play a hacker who picks the best attack in each of 3 rounds to drain it.
